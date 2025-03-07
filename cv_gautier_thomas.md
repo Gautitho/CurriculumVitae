@@ -3,9 +3,6 @@
     <h1 style="margin: 0;">Thomas GAUTIER</h1>
     <h4 style="margin: 0;">Ingénieur en micro-électronique numérique</h4>
   </div>
-  <div>
-    <img src="profil_picture.jpg" alt="Your Image" style="max-height: 100px; max-width: 150px; border-radius: 10%;">
-  </div>
 </div>
 
 ## Expériences
@@ -101,5 +98,3 @@ Baccalauréat Scientifique
 | HTML, CSS, Javascript | 1 | Sur des projets personnels |
 | SVN | 1 | Non pratiqué depuis 7 ans |
 | C++ | 1 |  |
-
-## Centres d'intérêt
